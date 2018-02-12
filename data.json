@@ -1,0 +1,31 @@
+
+{
+  "presenters":
+  [
+    {
+      "name":"mhkim",
+      "subject":"vue.js 와 firebase 로 기본적인 웹 사이트 구축해보기",
+      "date":"20180212"      
+    },
+    {
+      "name":"jhlee",
+      "subject":"react란 무엇인가",
+      "date":"20180205"      
+    },
+    {
+      "name":"jkcho",
+      "subject":"미정",
+      "date":"미정"   
+    },
+    {
+      "name":"hhlee",
+      "subject":"elasticsearch",
+      "date":"20180219"   
+    },
+    {
+      "name":"jhseem",
+      "subject":"뭐하신다고하셨었지...기억이안나네요",
+      "date":"20180219"   
+    }
+  ]
+}
